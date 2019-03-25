@@ -32,33 +32,10 @@ Copy all the files inside the Cifar-10 zip and paste them in the cifar-10-data f
 ```
 I recommend reading the code from the script to haver a better understanding of how it works. In future updates, I'm going to add coments so the code is more clear
 ```
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-When this system is deployed in a Windows PC, the file automatly make the logs, encrypt them and send them to your email. In case the task manager is open, the .exe file is called ==
 
 ## Built With
 
-* [TensorFlow](https://www.tensorflow.org/) - What made this possible
+* [TensorFlow](https://www.tensorflow.org/) - Open-source software library for dataflow
 * [MNIST](http://yann.lecun.com/exdb/mnist/) - Dataset of hand-written numbers
 * [Cifar-10](https://www.cs.toronto.edu/~kriz/cifar.html) - Dataset of images
 
@@ -68,7 +45,7 @@ Please contact me before planning to contribute
 
 ## Authors
 
-* **Monchi Estevez** - *Develepor* - [neworigin](https://github.com/monchiestevez)
+* **Monchi Estevez** - *Develepor* - [monchi](https://github.com/monchiestevez)
 
 ## License
 
